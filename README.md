@@ -1,1 +1,2 @@
 # ImageCaptionGenerator
+This project leverages advanced image processing and audio synthesis techniques to provide detailed auditory descriptions of images, assisting visually impaired individuals in interpreting visual content. Built using Python and Google Colab, it uses machine learning models for image captioning and text-to-speech technology for audio generation. Key features include multi-language support for captions and real-time audio playback
